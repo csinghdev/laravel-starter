@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
+use App\ApiCode;
+
 
 class AuthController extends Controller
 {
@@ -15,24 +16,24 @@ class AuthController extends Controller
         $credentials = request(['email', 'password']);
 
         if (! $token = auth()->attempt($credentials)) {
-            return response()->json(['error' => 'Invalid email or password'], 401);
+            return $this->respondUnAuthorizedRequest(ApiCode::INVALID_CREDENTIALS);
         }
 
         return $this->respondWithToken($token);
     }
 
     private function respondWithToken($token) {
-        return response()->json([
+        return $this->respond([
             'token' => $token,
             'access_type' => 'bearer',
             'expires_in' => auth()->factory()->getTTL() * 60
-        ]);
+        ], "Login Successful");
     }
 
 
     public function logout() {
         auth()->logout();
-        return response()->json(['msg' => 'User successfully logged out']);
+        return $this->respondWithMessage('User successfully logged out');
     }
 
 
@@ -41,6 +42,6 @@ class AuthController extends Controller
     }
 
     public function me() {
-        return response()->json(auth()->user());
+        return $this->respond(auth()->user());
     }
 }
