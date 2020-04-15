@@ -13,7 +13,7 @@ class AuthController extends Controller
     }
 
     public function login() {
-        $credentials = request(['email', 'password']);
+        $credentials = request()->validate(['email' => 'required|email', 'password' => 'required|string|max:25']);
 
         if (! $token = auth()->attempt($credentials)) {
             return $this->respondUnAuthorizedRequest(ApiCode::INVALID_CREDENTIALS);

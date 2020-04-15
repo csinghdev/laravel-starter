@@ -21,5 +21,6 @@ return [
     'map'               => [
         ApiCode::SOMETHING_WENT_WRONG => 'api.something_went_wrong',
         ApiCode::INVALID_CREDENTIALS => 'api.invalid_credentials',
+        ApiCode::VALIDATION_ERROR => 'api.validation_error',
     ],
 ];
