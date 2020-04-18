@@ -3,7 +3,6 @@
 namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
-use Hash;
 
 class RegistrationRequest extends FormRequest
 {
@@ -32,9 +31,6 @@ class RegistrationRequest extends FormRequest
     }
 
     public function getAttributes() {
-        return array_merge(
-            $this->only(['name', 'email']),
-            ['password' => Hash::make($this->get('password'))]
-        );
+        return $this->validated();
     }
 }
