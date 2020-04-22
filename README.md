@@ -1,11 +1,45 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+# About Laravel-Starter
+This Starter Application acts as starting point for application 
+development. A lot of things which needs to be taken care of during REST API Development are already present here.
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+Following are the list of things taken care of:
+- JWT pre-installed.
+- Authentication APIs are ready to use.
+- Consistent Response in all APIs and Exception Handling
+- Registration API.
+
+## Want to do it yourself?
+Here is the list of video tutorials you can follow to do it by yourself.
+
+- Create a new Laravel Project
+
+[![Create a new Laravel Project](https://img.youtube.com/vi/MB2Dv1hqwJE/0.jpg)](https://www.youtube.com/watch?v=MB2Dv1hqwJE)
+--
+- JWT installation and Setup
+
+[![JWT installation and Setup](https://img.youtube.com/vi/40g0vEXOFrU/0.jpg)](https://www.youtube.com/watch?v=40g0vEXOFrU)
+--
+- Auth APIs using JWT
+
+[![Auth APIs using JWT](https://img.youtube.com/vi/CKqRX9CBljU/0.jpg)](https://www.youtube.com/watch?v=CKqRX9CBljU)
+--
+- Consistent Response in REST APIs - Part I
+
+[![Consistent Response in REST APIs - Part I](https://img.youtube.com/vi/qNhD7DhSGzQ/0.jpg)](https://www.youtube.com/watch?v=qNhD7DhSGzQ)
+--
+- Consistent Response in REST APIs - Part II (Exception Handling)
+
+[![Consistent Response in REST APIs - Part II](https://img.youtube.com/vi/4BT4NtpZDLU/0.jpg)](https://www.youtube.com/watch?v=4BT4NtpZDLU)
+--
+- Registration API
+
+[![Using form request in REST APIs](https://img.youtube.com/vi/LChQQtdfSdY/0.jpg)](https://www.youtube.com/watch?v=LChQQtdfSdY)
+
+
+## Doing it on MacOS?
+Here is a simple video to setup Laravel application environment on MacOS using [Valet](https://laravel.com/docs/7.x/valet#introduction).
+
+[![Install Valet on Mac](https://img.youtube.com/vi/qN-QmeMm1vE/0.jpg)](https://www.youtube.com/watch?v=qN-QmeMm1vE)
 
 ## About Laravel
 
