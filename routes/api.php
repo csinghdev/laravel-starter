@@ -22,7 +22,7 @@ Route::middleware(['api'])->group(function ($router) {
     Route::post('login', 'AuthController@login');
     Route::post('logout', 'AuthController@logout');
     Route::post('refresh', 'AuthController@refresh');
-    Route::get('me', 'AuthController@me');
+    Route::get('me', 'AuthController@me')->middleware('log.route');
 
     Route::post('register', 'RegistrationController@register');
 });
