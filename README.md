@@ -34,7 +34,14 @@ Here is the list of video tutorials you can follow to do it by yourself.
 - Registration API
 
 [![Using form request in REST APIs](https://img.youtube.com/vi/LChQQtdfSdY/0.jpg)](https://www.youtube.com/watch?v=LChQQtdfSdY)
+--
+- API Logging Using middleware
 
+[![API Logging Using middleware](https://img.youtube.com/vi/zIHDOjz1SR4/0.jpg)](https://www.youtube.com/watch?v=zIHDOjz1SR4)
+--
+- Backup automation and management
+
+[![Backup](https://img.youtube.com/vi/11ECvHYMfRY/0.jpg)](https://www.youtube.com/watch?v=11ECvHYMfRY)
 
 ## Doing it on MacOS?
 Here is a simple video to setup Laravel application environment on MacOS using [Valet](https://laravel.com/docs/7.x/valet#introduction).
