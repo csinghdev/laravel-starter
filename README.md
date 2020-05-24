@@ -7,6 +7,8 @@ Following are the list of things taken care of:
 - Authentication APIs are ready to use.
 - Consistent Response in all APIs and Exception Handling
 - Registration API.
+- API Logging.
+- Backup automation and management.
 
 ## Want to do it yourself?
 Here is the list of video tutorials you can follow to do it by yourself.
