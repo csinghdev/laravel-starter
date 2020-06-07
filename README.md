@@ -7,6 +7,7 @@ Following are the list of things taken care of:
 - Authentication APIs are ready to use.
 - Consistent Response in all APIs and Exception Handling
 - Registration API.
+- Email Verification APIs.
 - API Logging.
 - Backup automation and management.
 
@@ -36,6 +37,10 @@ Here is the list of video tutorials you can follow to do it by yourself.
 - Registration API
 
 [![Using form request in REST APIs](https://img.youtube.com/vi/LChQQtdfSdY/0.jpg)](https://www.youtube.com/watch?v=LChQQtdfSdY)
+--
+- Email Verification APIs
+
+[![Using form request in REST APIs](https://img.youtube.com/vi/xIdFl155YvA/0.jpg)](https://www.youtube.com/watch?v=xIdFl155YvA)
 --
 - API Logging Using middleware
 
