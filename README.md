@@ -3,13 +3,15 @@ This Starter Application acts as starting point for application
 development. A lot of things which needs to be taken care of during REST API Development are already present here.
 
 Following are the list of things taken care of:
-- JWT pre-installed.
-- Authentication APIs are ready to use.
+- JWT pre-installed
+- Authentication APIs are ready to use
 - Consistent Response in all APIs and Exception Handling
-- Registration API.
-- Email Verification APIs.
-- API Logging.
-- Backup automation and management.
+- Registration API
+- Email Verification APIs
+- Forgot Password APIs
+- API Logging
+- Backup automation and management
+- Laravel Telescope for debugging in local environment
 
 ## Want to do it yourself?
 Here is the list of video tutorials you can follow to do it by yourself.
@@ -42,6 +44,10 @@ Here is the list of video tutorials you can follow to do it by yourself.
 
 [![Using form request in REST APIs](https://img.youtube.com/vi/xIdFl155YvA/0.jpg)](https://www.youtube.com/watch?v=xIdFl155YvA)
 --
+- Forgot Password APIs
+
+[![Forgot Password APIs](https://img.youtube.com/vi/0FCkS-gqA_c/0.jpg)](https://www.youtube.com/watch?v=0FCkS-gqA_c)
+--
 - API Logging Using middleware
 
 [![API Logging Using middleware](https://img.youtube.com/vi/zIHDOjz1SR4/0.jpg)](https://www.youtube.com/watch?v=zIHDOjz1SR4)
@@ -49,6 +55,10 @@ Here is the list of video tutorials you can follow to do it by yourself.
 - Backup automation and management
 
 [![Backup](https://img.youtube.com/vi/11ECvHYMfRY/0.jpg)](https://www.youtube.com/watch?v=11ECvHYMfRY)
+--
+- Laravel Telescope for debugging in local environment
+
+[![Laravel Telescope for debugging in local environment](https://img.youtube.com/vi/gpfEaKr3y9Q/0.jpg)](https://www.youtube.com/watch?v=gpfEaKr3y9Q)
 
 ## Doing it on MacOS?
 Here is a simple video to setup Laravel application environment on MacOS using [Valet](https://laravel.com/docs/7.x/valet#introduction).
