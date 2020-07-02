@@ -13,6 +13,23 @@ Following are the list of things taken care of:
 - Backup automation and management
 - Laravel Telescope for debugging in local environment
 
+## Want to do it yourself?
+Here are the video tutorials you can follow to do it by yourself.
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<a href="https://www.youtube.com/watch?v=MB2Dv1hqwJE"><img src="https://img.youtube.com/vi/MB2Dv1hqwJE/0.jpg"></a> Create a new Laravel Project|<a href="https://www.youtube.com/watch?v=40g0vEXOFrU"><img src="https://img.youtube.com/vi/40g0vEXOFrU/0.jpg"></a> JWT installation and Setup|<a href="https://www.youtube.com/watch?v=CKqRX9CBljU"><img src="https://img.youtube.com/vi/CKqRX9CBljU/0.jpg"></a> Auth APIs using JWT|
+|<a href="https://www.youtube.com/watch?v=qNhD7DhSGzQ"><img src="https://img.youtube.com/vi/qNhD7DhSGzQ/0.jpg"></a> Consistent Response in REST APIs - Part I|<a href="https://www.youtube.com/watch?v=4BT4NtpZDLU"><img src="https://img.youtube.com/vi/4BT4NtpZDLU/0.jpg"></a> Consistent Response in REST APIs - Part II|<a alt="Consistent Response in REST APIs - Part II (Exception Handling)" href="https://www.youtube.com/watch?v=LChQQtdfSdY"><img src="https://img.youtube.com/vi/LChQQtdfSdY/0.jpg"></a> Registration API|
+|<a href="https://www.youtube.com/watch?v=xIdFl155YvA"><img src="https://img.youtube.com/vi/xIdFl155YvA/0.jpg"></a> Email Verification APIs|<a href="https://www.youtube.com/watch?v=0FCkS-gqA_c"><img src="https://img.youtube.com/vi/0FCkS-gqA_c/0.jpg"></a> Forgot Password APIs|<a href="https://www.youtube.com/watch?v=zIHDOjz1SR4"><img src="https://img.youtube.com/vi/zIHDOjz1SR4/0.jpg"></a> API Logging Using middleware|
+|<a href="https://www.youtube.com/watch?v=11ECvHYMfRY"><img src="https://img.youtube.com/vi/11ECvHYMfRY/0.jpg"></a> Backup automation and management|<a href="https://www.youtube.com/watch?v=gpfEaKr3y9Q"><img src="https://img.youtube.com/vi/gpfEaKr3y9Q/0.jpg"></a> Laravel Telescope for debugging in local environment||
+
+
+## Doing it on MacOS?
+Here is a simple video to setup Laravel application environment on MacOS using [Valet](https://laravel.com/docs/7.x/valet#introduction).
+
+[![Install Valet on Mac](https://img.youtube.com/vi/qN-QmeMm1vE/0.jpg)](https://www.youtube.com/watch?v=qN-QmeMm1vE)
+
+
 How to use?
 --
 
@@ -34,58 +51,6 @@ Copy ``.env.example`` file:
 
 Configure ``.env`` file
 
-
-## Want to do it yourself?
-Here is the list of video tutorials you can follow to do it by yourself.
-
-- Create a new Laravel Project
-
-[![Create a new Laravel Project](https://img.youtube.com/vi/MB2Dv1hqwJE/0.jpg)](https://www.youtube.com/watch?v=MB2Dv1hqwJE)
---
-- JWT installation and Setup
-
-[![JWT installation and Setup](https://img.youtube.com/vi/40g0vEXOFrU/0.jpg)](https://www.youtube.com/watch?v=40g0vEXOFrU)
---
-- Auth APIs using JWT
-
-[![Auth APIs using JWT](https://img.youtube.com/vi/CKqRX9CBljU/0.jpg)](https://www.youtube.com/watch?v=CKqRX9CBljU)
---
-- Consistent Response in REST APIs - Part I
-
-[![Consistent Response in REST APIs - Part I](https://img.youtube.com/vi/qNhD7DhSGzQ/0.jpg)](https://www.youtube.com/watch?v=qNhD7DhSGzQ)
---
-- Consistent Response in REST APIs - Part II (Exception Handling)
-
-[![Consistent Response in REST APIs - Part II](https://img.youtube.com/vi/4BT4NtpZDLU/0.jpg)](https://www.youtube.com/watch?v=4BT4NtpZDLU)
---
-- Registration API
-
-[![Using form request in REST APIs](https://img.youtube.com/vi/LChQQtdfSdY/0.jpg)](https://www.youtube.com/watch?v=LChQQtdfSdY)
---
-- Email Verification APIs
-
-[![Using form request in REST APIs](https://img.youtube.com/vi/xIdFl155YvA/0.jpg)](https://www.youtube.com/watch?v=xIdFl155YvA)
---
-- Forgot Password APIs
-
-[![Forgot Password APIs](https://img.youtube.com/vi/0FCkS-gqA_c/0.jpg)](https://www.youtube.com/watch?v=0FCkS-gqA_c)
---
-- API Logging Using middleware
-
-[![API Logging Using middleware](https://img.youtube.com/vi/zIHDOjz1SR4/0.jpg)](https://www.youtube.com/watch?v=zIHDOjz1SR4)
---
-- Backup automation and management
-
-[![Backup](https://img.youtube.com/vi/11ECvHYMfRY/0.jpg)](https://www.youtube.com/watch?v=11ECvHYMfRY)
---
-- Laravel Telescope for debugging in local environment
-
-[![Laravel Telescope for debugging in local environment](https://img.youtube.com/vi/gpfEaKr3y9Q/0.jpg)](https://www.youtube.com/watch?v=gpfEaKr3y9Q)
-
-## Doing it on MacOS?
-Here is a simple video to setup Laravel application environment on MacOS using [Valet](https://laravel.com/docs/7.x/valet#introduction).
-
-[![Install Valet on Mac](https://img.youtube.com/vi/qN-QmeMm1vE/0.jpg)](https://www.youtube.com/watch?v=qN-QmeMm1vE)
 
 ## About Laravel
 
