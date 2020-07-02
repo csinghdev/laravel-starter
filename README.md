@@ -13,6 +13,28 @@ Following are the list of things taken care of:
 - Backup automation and management
 - Laravel Telescope for debugging in local environment
 
+How to use?
+--
+
+Clone this repository:
+
+    git clone https://github.com/csinghdev/laravel-starter.git
+
+Remove .git folder since you want to create a new repository
+
+    rm -rf .git
+
+Install dependencies:
+
+    composer install
+    
+Copy ``.env.example`` file:
+
+    cp .env.example .env
+
+Configure ``.env`` file
+
+
 ## Want to do it yourself?
 Here is the list of video tutorials you can follow to do it by yourself.
 
