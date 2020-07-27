@@ -12,6 +12,7 @@ Following are the list of things taken care of:
 - API Logging
 - Backup automation and management
 - Laravel Telescope for debugging in local environment
+- TDD (Test Driven Development) setup using phpunit
 
 ## Want to do it yourself?
 Here are the video tutorials you can follow to do it by yourself.
@@ -21,7 +22,7 @@ Here are the video tutorials you can follow to do it by yourself.
 |<a href="https://www.youtube.com/watch?v=MB2Dv1hqwJE"><img src="https://img.youtube.com/vi/MB2Dv1hqwJE/0.jpg"></a> Create a new Laravel Project|<a href="https://www.youtube.com/watch?v=40g0vEXOFrU"><img src="https://img.youtube.com/vi/40g0vEXOFrU/0.jpg"></a> JWT installation and Setup|<a href="https://www.youtube.com/watch?v=CKqRX9CBljU"><img src="https://img.youtube.com/vi/CKqRX9CBljU/0.jpg"></a> Auth APIs using JWT|
 |<a href="https://www.youtube.com/watch?v=qNhD7DhSGzQ"><img src="https://img.youtube.com/vi/qNhD7DhSGzQ/0.jpg"></a> Consistent Response in REST APIs - Part I|<a href="https://www.youtube.com/watch?v=4BT4NtpZDLU"><img src="https://img.youtube.com/vi/4BT4NtpZDLU/0.jpg"></a> Consistent Response in REST APIs - Part II|<a alt="Consistent Response in REST APIs - Part II (Exception Handling)" href="https://www.youtube.com/watch?v=LChQQtdfSdY"><img src="https://img.youtube.com/vi/LChQQtdfSdY/0.jpg"></a> Registration API|
 |<a href="https://www.youtube.com/watch?v=xIdFl155YvA"><img src="https://img.youtube.com/vi/xIdFl155YvA/0.jpg"></a> Email Verification APIs|<a href="https://www.youtube.com/watch?v=0FCkS-gqA_c"><img src="https://img.youtube.com/vi/0FCkS-gqA_c/0.jpg"></a> Forgot Password APIs|<a href="https://www.youtube.com/watch?v=zIHDOjz1SR4"><img src="https://img.youtube.com/vi/zIHDOjz1SR4/0.jpg"></a> API Logging Using middleware|
-|<a href="https://www.youtube.com/watch?v=11ECvHYMfRY"><img src="https://img.youtube.com/vi/11ECvHYMfRY/0.jpg"></a> Backup automation and management|<a href="https://www.youtube.com/watch?v=gpfEaKr3y9Q"><img alt="Laravel Telescope for debugging in local environment" src="https://img.youtube.com/vi/gpfEaKr3y9Q/0.jpg"></a> Laravel Telescope for debugging||
+|<a href="https://www.youtube.com/watch?v=11ECvHYMfRY"><img src="https://img.youtube.com/vi/11ECvHYMfRY/0.jpg"></a> Backup automation and management|<a href="https://www.youtube.com/watch?v=gpfEaKr3y9Q"><img alt="Laravel Telescope for debugging in local environment" src="https://img.youtube.com/vi/gpfEaKr3y9Q/0.jpg"></a> Laravel Telescope for debugging|<a href="https://www.youtube.com/watch?v=G-OV9Eqsouk"><img src="https://img.youtube.com/vi/G-OV9Eqsouk/0.jpg"></a> TDD in Laravel using phpunit|
 
 
 ## Doing it on MacOS?
