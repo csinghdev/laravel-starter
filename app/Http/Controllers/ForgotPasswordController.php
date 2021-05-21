@@ -4,12 +4,14 @@ namespace App\Http\Controllers;
 
 use App\ApiCode;
 use App\Http\Requests\ResetPasswordRequest;
+use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Password;
 
 
 class ForgotPasswordController extends Controller
 {
-    public function forgot() {
+    public function forgot()
+    {
         $credentials = request()->validate(['email' => 'required|email']);
 
         Password::sendResetLink($credentials);
@@ -18,9 +20,10 @@ class ForgotPasswordController extends Controller
     }
 
 
-    public function reset(ResetPasswordRequest $request) {
+    public function reset(ResetPasswordRequest $request)
+    {
         $reset_password_status = Password::reset($request->validated(), function ($user, $password) {
-            $user->password = $password;
+            $user->password = Hash::make($password);
             $user->save();
         });
 
