@@ -1,4 +1,5 @@
-# About Laravel-Starter
+# Laravel-Starter (for Laravel 8)
+# Laravel-Starter (for Laravel 7, [click here](https://github.com/csinghdev/laravel-starter/tree/v1.0))
 This Starter Application acts as starting point for application 
 development. A lot of things which needs to be taken care of during REST API Development are already present here.
 
@@ -15,7 +16,7 @@ Following are the list of things taken care of:
 - TDD (Test Driven Development) setup using phpunit
 
 ## Want to do it yourself?
-Here are the video tutorials you can follow to do it by yourself.
+Here are the video tutorials you can follow to do it by yourself. These tutorials are based on Laravel 7 and this project has been upgraded to Laravel 8, you may see few changes in latest code. Checkout [v1.0](https://github.com/csinghdev/laravel-starter/tree/v1.0) to see the exact code.
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
