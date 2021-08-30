@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Http\Requests\RegistrationRequest;
-use App\User;
+use App\Models\User;
 
 class RegistrationController extends Controller
 {
