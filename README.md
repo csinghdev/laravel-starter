@@ -1,4 +1,5 @@
-# Laravel-Starter (for Laravel 8)
+# Laravel-Starter (for Laravel 9)
+# Laravel-Starter (for Laravel 8, [click here](https://github.com/csinghdev/laravel-starter/tree/v2.0))
 # Laravel-Starter (for Laravel 7, [click here](https://github.com/csinghdev/laravel-starter/tree/v1.0))
 This Starter Application acts as starting point for application 
 development. A lot of things which needs to be taken care of during REST API Development are already present here.
